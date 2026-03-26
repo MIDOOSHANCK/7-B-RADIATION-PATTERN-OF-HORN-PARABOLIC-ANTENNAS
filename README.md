@@ -86,7 +86,7 @@ Operating frequency 9.00 GHz
 
 3 dB beamwidth (measured) 8°
 
-Gain (calculated) 24.5 dBi
+Gain (calculated) 24.5 dBi 
 
 **RESULT:**
 
